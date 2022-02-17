@@ -1,10 +1,10 @@
-### Hello I am Priscila! 👋
+### Hello I am Carlos Eduardo Carmo do Nascimento!
 
 - 🔭 I’m currently enrolled in an Honours Bachelors/Diploma Computer Science course at CCT College in Dublin.
-- 🌱 I’m currently learning Programming Languages as Python, Java, JS and SQL.
+- 🌱 I’m currently learning Programming Languages as Java, JS and SQL.
 ##
 <div align="center">
-  <a href="https://github.com/PriFlores">
+  <a href="https://github.com/Eduardo2804">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=priflores&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priflores&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -27,6 +27,6 @@
   <a href= "mailto:pri_256@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target= "_blank"></a>
   <a href="https://www.linkedin.com/in/priscila-flores-45682bb6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-  ![Snake gif](https://github.com/PriFlores/PriFlores/blob/main/github-contribution-grid-snake.svg)
+  ![Snake gif](https://github.com/Eduardo2804/Eduardo2804/blob/main/github-contribution-grid-snake.svg)
   </div>
 
