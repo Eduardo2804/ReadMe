@@ -1,7 +1,7 @@
 ### Hello I am Carlos Eduardo Carmo do Nascimento!
 
-- 🔭 I’m currently enrolled in an Honours Bachelors/Diploma Computer Science course at CCT College in Dublin.
-- 🌱 I’m currently learning Programming Languages as Java, JS and SQL.
+-I’m currently enrolled in an Honours Bachelors/Diploma Computer Science course at CCT College in Dublin.
+-I’m currently learning Programming Languages as Java, JS and SQL.
 ##
 <div align="center">
   <a href="https://github.com/Eduardo2804">
